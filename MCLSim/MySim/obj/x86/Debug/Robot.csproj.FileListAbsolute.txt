@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2010\Projects\Robot\Robot\bin\Debug\Robot.exe
+c:\users\user\documents\visual studio 2010\Projects\Robot\Robot\bin\Debug\Robot.pdb
+c:\users\user\documents\visual studio 2010\Projects\Robot\Robot\obj\x86\Debug\Robot.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Robot\Robot\obj\x86\Debug\Robot.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Robot\Robot\obj\x86\Debug\Robot.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Robot\Robot\obj\x86\Debug\Robot.exe
+c:\users\user\documents\visual studio 2010\Projects\Robot\Robot\obj\x86\Debug\Robot.pdb
+C:\Users\USER\Desktop\Robot\Robot\obj\x86\Debug\Robot.exe
+C:\Users\USER\Desktop\Robot\Robot\obj\x86\Debug\Robot.pdb
+C:\Users\USER\Desktop\Robot\Robot\bin\Debug\Robot.exe
+C:\Users\USER\Desktop\Robot\Robot\bin\Debug\Robot.pdb
+C:\Users\USER\Desktop\Robot\Robot\obj\x86\Debug\Robot.Form1.resources
+C:\Users\USER\Desktop\Robot\Robot\obj\x86\Debug\Robot.Properties.Resources.resources
+C:\Users\USER\Desktop\Robot\Robot\obj\x86\Debug\Robot.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Robot\Robot\obj\x86\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\Robot.exe
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\Robot.pdb
+C:\Users\USER\Desktop\MySim\Robot\bin\Debug\Robot.exe
+C:\Users\USER\Desktop\MySim\Robot\bin\Debug\Robot.pdb
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\Robot.Form1.resources
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\Robot.Properties.Resources.resources
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\Robot.csproj.GenerateResource.Cache

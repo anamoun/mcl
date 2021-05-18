@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\MySim\Robot\bin\Debug\Robot.exe
+C:\Users\USER\Desktop\MySim\Robot\bin\Debug\Robot.pdb
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\Robot.Form1.resources
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\Robot.Properties.Resources.resources
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\MySim.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\Robot.exe
+C:\Users\USER\Desktop\MySim\Robot\obj\x86\Debug\Robot.pdb
+C:\Users\USER\Desktop\MySim\MySim\obj\x86\Debug\Robot.exe
+C:\Users\USER\Desktop\MySim\MySim\obj\x86\Debug\Robot.pdb
